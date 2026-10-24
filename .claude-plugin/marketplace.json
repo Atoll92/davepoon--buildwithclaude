@@ -4068,6 +4068,32 @@
         "repo": "854Labs/account-executive-jobs",
         "sha": "6bd3193e9eab6b9592ee3499d724382c52a2b3c7"
       }
+    },
+    {
+      "name": "mission-control",
+      "description": "Open Claude Mission Control, a local read-only dashboard for every Claude Code session: who is waiting on you, cost per session and commit, and a usage-limit forecast. Adds a statusline.",
+      "version": "1.18.0",
+      "author": {
+        "name": "Jon Imms",
+        "url": "https://github.com/JonImmsWordpressDev"
+      },
+      "repository": "https://github.com/JonImmsWordpressDev/claude-dashboard",
+      "license": "MIT",
+      "keywords": [
+        "dashboard",
+        "monitoring",
+        "usage",
+        "cost",
+        "statusline",
+        "claude-code"
+      ],
+      "category": "monitoring",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/JonImmsWordpressDev/claude-dashboard.git",
+        "path": "plugin",
+        "sha": "6e2d56158275578033d1dfa17fa55b78acd17efd"
+      }
     }
   ]
 }
