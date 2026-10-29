@@ -4657,6 +4657,32 @@
         "repo": "zhuyansen/backlink-guard",
         "sha": "588ff58d3cfd5c59590ff11e7ce967427d069afa"
       }
+    },
+    {
+      "name": "conferencedb",
+      "description": "Read-only conference and trade show data: which companies sponsor and exhibit at an event, the conferences a company sponsors or exhibits at, event dates and places, and the sponsorship packages organizers publish. Adds the conferencedb skill and the hosted ConferenceDB MCP server (https://conferencedatabase.com/api/mcp); no sign-in, no API key. Company-level data only: no people, emails or phone numbers.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Sales.co",
+        "url": "https://conferencedatabase.com"
+      },
+      "homepage": "https://conferencedatabase.com/mcp",
+      "repository": "https://github.com/rdoyle99/conferencedb-plugin",
+      "license": "MIT",
+      "keywords": [
+        "conferences",
+        "trade-shows",
+        "sponsors",
+        "exhibitors",
+        "sponsorship",
+        "mcp"
+      ],
+      "category": "sales-marketing",
+      "source": {
+        "source": "github",
+        "repo": "rdoyle99/conferencedb-plugin",
+        "sha": "afa673b6d1b3f38a448219788d2ada4d833fce66"
+      }
     }
   ]
 }
